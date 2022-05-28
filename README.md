@@ -10,7 +10,7 @@ Four Programming Assignments from my quarter taking Design and Analysis of Algor
 
 3: Matrix.py ; Finds the best value string pairing using Levenshtein edit distances
 
-4:           ; 3 different implementations of finding optimal Vertex Cover (minimized) Log(n), 2 approximation, and Brute Force
+4: VertexCover.py ; 3 different implementations of finding optimal Vertex Cover (minimized) Log(n), 2 approximation, and Brute Force
 
 
 
